@@ -2,3 +2,4 @@
 
 *Freezer
 *Cell
+*Majin Boo
