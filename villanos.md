@@ -3,3 +3,4 @@
 *Freezer
 *Cell
 *Majin Boo
+*Black
