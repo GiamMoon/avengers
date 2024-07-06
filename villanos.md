@@ -1,6 +1,8 @@
 # Villanos
 
-*Freezer
-*Cell
-*Majin Boo
-*Black
+* Freezer
+* Cell
+* Majin Boo
+* Black
+* Moro
+* Granola
