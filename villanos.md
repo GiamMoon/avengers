@@ -6,3 +6,4 @@
 * Black
 * Moro
 * Granola
+* Cell Max
