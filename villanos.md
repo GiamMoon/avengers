@@ -7,3 +7,4 @@
 * Moro
 * Granola
 * Cell Max
+* Black Freezer
